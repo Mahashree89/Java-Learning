@@ -1,0 +1,32 @@
+Git Hub:
+Remote repository: Managed by all team member
+Local Repository: Managed by you
+
+CD: Change Directory
+LS: Command list file from Folder
+clone: Remote to local
+PWD: Print Working Directory
+
+Git status: Give the list of files in github
+Untracked: Available in local machine not in remote repository
+
+Staging area: Untracked to tracked
+
+There are staging
+Local
+staging
+commit
+
+Comments:
+git clone url (remote to local) 
+open  new folder and name it. click the path, type cmd.cmd promt open. type git clone url. The folder should be cloned from remote to local.
+
+git add.
+git remote add origin
+git checkout -b master
+git add .
+git commit -m "message"
+git push
+
+
+
