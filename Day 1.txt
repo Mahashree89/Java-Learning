@@ -12,7 +12,7 @@ Untracked: Available in local machine not in remote repository
 
 Staging area: Untracked to tracked
 
-There are staging
+steps:
 Local
 staging
 commit
@@ -21,7 +21,6 @@ Comments:
 git clone url (remote to local) 
 open  new folder and name it. click the path, type cmd.cmd promt open. type git clone url. The folder should be cloned from remote to local.
 
-git add.
 git remote add origin
 git checkout -b master
 git add .
