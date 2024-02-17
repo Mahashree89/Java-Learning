@@ -1,0 +1,62 @@
+Ecllipse Installation:
+
+
+How to add path:
+Go to advanced system setting 
+click environment variables
+click new  in user variable
+Give any name to the variable name and copy the folder path and paste in variable value
+click ok 
+
+
+package test.org;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+	System.out.println("Test Program");
+
+	}
+
+}
+Package:
+Built in pckage   lang, java
+user defined Package
+package
+
+For print output 
+System.out.println("....");
+
+For getting input
+Scanner sc= new scanner(System.in);
+int n = sc.nextInt();
+
+int n=new scanner(System.in). nextInt();
+
+Alignment:
+ctrl A Ctrl shift F
+
+class:
+collection of object and methods
+
+obj:
+obj create using new keyword
+runtime entity
+create object: 
+classname objname =new classname();
+obj.method name();
+ 
+Method:
+public void add(){
+
+}
+
+
+pascal notation : uppercase (Captitalize each word)   class name eg. TestCase
+camel notation: lower and then uppercase -method name eg.methodOne
+
+
+
+
+
+
